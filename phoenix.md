@@ -1,6 +1,5 @@
-Location | City | Password
-------------- | ------------- | -------
-Boulders on Broadway | Tempe | boulders
-Cartel | Tempe | coffeecartel
-Cartel | Scottsdale | espresso
-Echo | Scottsdale | titusblend
+Location | City | SSID | Password
+-------- | ---- | -----| --------
+Boulders on Broadway | Tempe | Boulders Dining Room | boulders
+Boulders on Broadway | Tempe | bouldersbar | boulders
+Echo | Scottsdale | EchoCoffee | titusblend
