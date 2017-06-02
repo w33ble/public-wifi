@@ -5,3 +5,4 @@ Boulders on Broadway | Tempe | bouldersbar | boulders
 Echo Coffee | Scottsdale | EchoCoffee | titusblend
 Mother Bunch | Phoenix | | goodbeer1
 The Shop | Tempe | The Shop 5g | Beerco922
+Xtreme Bean | Tempe | XtremeBean | icedmocha
